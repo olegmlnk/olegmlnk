@@ -20,6 +20,4 @@ My Djinni : https://djinni.co/q/8687f8baee/
 ![](https://github-contributor-stats.vercel.app/api?username=olegmlnk&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=olegmlnk&icon=0&color=4)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=olegmlnk&icon=2&color=4)](https://visitcount.itsvg.in)
